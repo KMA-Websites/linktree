@@ -25,7 +25,7 @@ Welcome to **KMA Linktree** — your hub to explore all my web projects, online 
 ## 📬 Contact / Socials
 
 - [GitHub](https://github.com/NilaDoze)
-- [Instagram]([https://instagram.com/yourhandle](https://www.instagram.com/taigachan.0012))  
+- [Instagram](https://www.instagram.com/taigachan.0012)
 - [Linkedin](https://www.linkedin.com/in/kyra-mart%C3%ADn-aguilera-aa904b36b/)  
 
 
