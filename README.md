@@ -10,7 +10,7 @@ Welcome to **KMA Linktree** — your hub to explore all my web projects, online 
 |---------|-------------|------|
 | **KMA Linktree** | Central hub linking all my online content. | [Visit](https://kma-websites.github.io/linktree/) |
 | **KMA Publishing** | Showcase of my published books.| [Visit](https://kma-websites.github.io/publishing/) 
-| **KMA LearnHub** | Available courses for purchase.| [Visit](https://kma-courses.netlify.app/)
+| **KMA LearnHub** | Available guides for purchase.| [Visit](https://kma-courses.netlify.app/)
 
 ---
 
