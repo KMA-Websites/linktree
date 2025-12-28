@@ -417,6 +417,18 @@ ease 0.1s;
     font-size: 12px;
 }
 
+.acne-diary {
+    display: inline-block;
+    margin-bottom: 24px;
+}
+
+.acne-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 12px;
+    box-shadow: 0 0px 10px rgba(22, 22, 22, 0.2);
+}
+
 .footer {
     margin-top: 40px;
     padding-top: 30px;
